@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github.com/ansh-trehan/ansh-trehan/blob/master/readme.gif">
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 </p>
 
 <!--
