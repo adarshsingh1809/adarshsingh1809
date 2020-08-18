@@ -1,11 +1,11 @@
 
 <img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/43066574/90418559-e5b7bf80-e0d2-11ea-8324-a9ee99457a6d.jpg">
+
 <style>
-div {
+body {
   background-image: url('https://user-images.githubusercontent.com/43066574/90473199-f5212200-e13f-11ea-99ce-c587e5a506a7.jpg');
 }
 </style>
-
 # Hello Folks,
 
 Data Analyst | SD | Artificial Intelligence
