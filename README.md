@@ -1,5 +1,5 @@
 
-<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/43066574/90473199-f5212200-e13f-11ea-99ce-c587e5a506a7.jpg">
+<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/43066574/90473199-f5212200-e13f-11ea-99ce-c587e5a506a7.jpg">
 
 
 # Hello Folks,
@@ -32,9 +32,7 @@ Data Analyst | SD | Artificial Intelligence
 <a href="https://www.linkedin.com/in/adarsh-singh-0647b0148/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/adarshsingh1809/">
-  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-</a>ins
+
 <a href="https://www.instagram.com/adarsh.singh18/">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a>
