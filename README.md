@@ -11,7 +11,7 @@ Data Analyst | SD | Artificial Intelligence
 [![Github](https://img.shields.io/github/watchers/adarshsingh1809/adarshsingh1809?style=social)](https://github.com/adarshsingh1809/adarshsingh1809)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/AdarshSingh1809/)
 
-# Checkout my [![Portfolio](https://img.shields.io/static/v1?color=<Blue>)](http://adarshsingh1809.github.io/) !!!
+# Checkout my [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=<Github>&color=<COLOR>)](http://adarshsingh1809.github.io/) !!!
 ## About me?
 
 - Introvert with a bit of Craziness :D.
