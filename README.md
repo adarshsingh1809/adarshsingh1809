@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/43066574/90473199-f5212200-e13f-11ea-99ce-c587e5a506a7.jpg">
+<img align="right" width="350" height="350" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
 
 
 # Hello Folks,
