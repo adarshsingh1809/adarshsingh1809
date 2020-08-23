@@ -34,7 +34,7 @@
 </p>
 
 
-## Social Media Handles
+### 🤝🏻 &nbsp;Social Media Handles
 
 <a href="https://twitter.com/AdarshSingh1809/">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
