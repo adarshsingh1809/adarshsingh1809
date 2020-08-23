@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/XcSiy24LgsVUc8FiCM" width="480" height="410" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" width="350" height="350" src="https://github.com/adarshsingh1809/adarshsingh1809/issues/2">
 
 
 # Hello Folks,
