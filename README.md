@@ -1,7 +1,7 @@
 <img align="right" width="350" height="350" src="https://media.giphy.com/media/XcSiy24LgsVUc8FiCM/giphy.gif">
 
 
-# Hello Folks,
+## 👋 &nbsp;Hello Folks! I'm Adarsh
 
 Data Analyst | SD | Artificial Intelligence
 
@@ -12,7 +12,7 @@ Data Analyst | SD | Artificial Intelligence
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/AdarshSingh1809/)
 
 # Check This Out -> [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Github&color=<COLOR>)](http://adarshsingh1809.github.io/)
-## About me?
+### 👨🏻‍💻 &nbsp;About me?
 
 - Introvert with a bit of Craziness :D.
 
