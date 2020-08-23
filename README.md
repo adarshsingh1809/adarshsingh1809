@@ -3,7 +3,7 @@
 
 ## 👋 &nbsp;Hello Folks! I'm Adarsh
 
-Data Analyst | SD | Artificial Intelligence
+## 🌱 &nbsp;Data Analyst | SD | Artificial Intelligence
 
 [![Github](https://img.shields.io/github/followers/adarshsingh1809?style=social)](https://github.com/adarshsingh1809)
 [![Github](https://img.shields.io/github/last-commit/adarshsingh1809/adarshsingh1809)](https://github.com/adarshsingh1809/adarshsingh1809)
