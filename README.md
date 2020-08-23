@@ -1,5 +1,4 @@
-
-<img align="right" width="350" height="350" src="https://giphy.com/gifs/XcSiy24LgsVUc8FiCM">
+<iframe src="https://giphy.com/embed/XcSiy24LgsVUc8FiCM" width="480" height="410" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 # Hello Folks,
