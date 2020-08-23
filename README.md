@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/XcSiy24LgsVUc8FiCM" width="480" height="410" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/XcSiy24LgsVUc8FiCM" width="480" height="410" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
 # Hello Folks,
