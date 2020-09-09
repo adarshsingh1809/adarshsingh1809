@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://media.giphy.com/media/XcSiy24LgsVUc8FiCM/giphy.gif">
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/XcSiy24LgsVUc8FiCM/giphy.gif">
 
 
 # 👋 &nbsp;Hello Folks! I'm Adarsh
