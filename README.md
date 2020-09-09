@@ -3,6 +3,8 @@
 
 #### 🌱 &nbsp;Data Analyst | SD | Artificial Intelligence
 
+### 🛠 &nbsp;Check This Out -> [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Github&color=<COLOR>)](http://adarshsingh1809.github.io/)
+
 
 [![Github](https://img.shields.io/github/followers/adarshsingh1809?style=social)](https://github.com/adarshsingh1809)
 [![Github](https://img.shields.io/github/last-commit/adarshsingh1809/adarshsingh1809)](https://github.com/adarshsingh1809/adarshsingh1809)
@@ -12,7 +14,6 @@
 
 <img align="right" width="250" height="250" src="https://media.giphy.com/media/XcSiy24LgsVUc8FiCM/giphy.gif">
 
-### 🛠 &nbsp;Check This Out -> [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=Github&color=<COLOR>)](http://adarshsingh1809.github.io/)
 
 ### 👨🏻‍💻 &nbsp;About me?
 
